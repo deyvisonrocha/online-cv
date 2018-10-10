@@ -31,96 +31,109 @@ sidebar:
         level: Profissional
         
     interests:
-      - item: Climbing
+      - item: Família
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Ler códigos no github
         link:
 
 career-profile:
-    title: Career Profile
+    title: Objetivo
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Estou sempre expandindo meus conhecimentos e experiências 
+      para garantir melhor qualidade e produtividade aos trabalhos 
+      que participo. Quero poder ajudar as instituições às quais 
+      participo a conseguirem seus objetivos com minhas habilidades 
+      adquiridas ao longo da minha carreira. Como indivíduo, procuro 
+      sempre ter um ótimo relacionamento com as pessoas, respeitando 
+      e ajudando com o máximo que eu posso. Quero poder compartilhar 
+      mais conhecimentos e assim obter ainda mais. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Sistemas de Informação (trancado)
+      university: Faculdade Decisão
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        O pouco que estudei tive a oportunidade de conhecer pessoas inteligentes. Incompleto, cursei 3 períodos.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analista Desenvolvedor PHP Sênior
+      time: 2018 - Presente
+      company: Blue Assessoria, Recife, Brasil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Criação de uma aplicação Web que integre com o Sistema RM TOTVs.
+        Utilizando como backend PHP e frontend VueJS. O banco de dados
+        utilizado como base para aplicação é o MySQL e conectando em 
+        banco de dados Microsoft SQL Server e Oracle.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Desenvolvedor PHP Pleno
+      time: 2014 - 2017
+      company: Tisstech, Recife, Brasil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Trabalhei desenvolvendo sistemas em PHP com o framework Laravel,
+        robustos e bem desafiadores. Também desenvolvi em projetos Java 
+        com Spring
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
+    - role: Desenvolvedor PHP Júnior
       time: 2012 - 2014
-      company: Amazon, London
+      company: MGR Tecnologia, Recife, Brasil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Responsável por manter e atualizar uma Rede Social Corporativa com 
+        Gerenciamento de Projetos e CRM. Também mantinha e atualizava a 
+        API que era disponibilizado para os clientes. Utilizando o Zend 
+        Framework 1.12.
+    
+    - role: Desenvolvedor PHP Júnior
+      time: 2011 - 2012
+      company: Click N Brasil, Recife, Brasil
+      details: |
+        Atuei como responsável por atualizar sites que utiliza o Zend 
+        Framework. Atualizando os sistemas legados da empresa, como 
+        um sistema web de controle de estúdio de áudio e vídeo.
+    
+    - role: Estágio - Desenvolvedor PHP
+      time: 2011 - 2011
+      company: Idealizza, Recife, Brasil
+      details: |
+        Atuei como desenvolvedor PHP na Idealizza, implementando novas 
+        funcionalidades no sistemas desenvolvidos pela empresa e sempre 
+        progredindo no conhecimento.
+    
+    - role: Suporte Técnio Pleno
+      time: 2008 - 2011
+      company: 3LM Informática, Recife, Brasil
+      details: |
+        Implantação de sistemas de food service (restaurantes, deliverys 
+        e boates). Atendimento por telefone, MSN e Skype à variados clientes 
+        em todo o Brasil. Treinamento de todo o sistema com abordagem a vendas, 
+        gerenciamento de vendas, estoque e financeiro.
+    
+    - role: Suporte Técnico Júnior
+      time: 2008 - 2008
+      company: Palmeira Advogados, Recife, Brasil
+      details: |
+        Implantação de sistemas de cobrança e jurídico. Concluindo a 
+        customização para o funcionamento sistema de acordo com as 
+        solicitações da empresa. Suporte aos funcionários dando 
+        treinamentos e viabilizando o melhor desempenho do funcionário 
+        com o sistema.
+    
+    - role: Suporte Técnico Pleno
+      time: 2007 - 2008
+      company: MDA Software, Recife, Brasil
+      details: |
+        Suporte ao cliente na parte do Software, dando treinamento aos 
+        funcionários. Gerando relatório de visita, solicitação de 
+        alteração do sistema.
 
-          - Bullet point
-          - Bullet point
+    - role: Suporte Técnico Júnior
+      time: 2012 - 2014
+      company: HSE - Hospital dos Servidores do Estado, Recife, Brasil
+      details: |
+        Atendimento interno de chamados para conserto de impressoras, 
+        monitores, computadores. Instalação do Windows, Pacote Office 
+        e outros aplicativos. Suporte ao software de atendimento ao 
+        cliente desenvolvido pelo departamento de TI.
 
 projects:
     title: Projects
